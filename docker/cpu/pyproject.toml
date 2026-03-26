@@ -7,7 +7,7 @@ requires-python = ">=3.10"
 dependencies = [
     # Core ML/DL for CPU
     "torch>=2.5.1",
-    "transformers==4.47.1",
+    "transformers==4.53.0",
 ]
 
 [tool.uv.workspace]
