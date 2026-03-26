@@ -25,11 +25,11 @@ dependencies = [
     # Utilities
     "aiofiles==23.2.1",
     "tqdm==4.67.1",
-    "requests==2.32.3",
+    "requests==2.33.0",
     "munch==4.0.0",
     "tiktoken==0.8.0",
     "loguru==0.7.3",
-    "transformers==4.47.1",
+    "transformers==4.53.0",
     "openai>=1.59.6",
     "ebooklib>=0.18",
     "html2text>=2024.2.26",
